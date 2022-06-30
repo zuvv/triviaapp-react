@@ -1,0 +1,19 @@
+{
+    "trivia": [
+        {
+            "question": "Who is captain of enterprise TNG",
+            "answer": "Picard",
+            "category": "star trek"
+        },
+        {
+            "question": "Who is the android on TNG?",
+            "answer": "Data",
+            "category": "star trek"
+        },
+        {
+            "question": "What does LaForge wear on his face?",
+            "answer": "Visor",
+            "category": "star trek"
+        }
+    ]
+}
